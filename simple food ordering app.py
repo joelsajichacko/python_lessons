@@ -28,3 +28,4 @@ result=selected_menu.get_total_price(count)
 # Output 'Your total is $____'
 print('Your total is $ '+ str(result))
 
+# menu_item module is added as a separate file 
